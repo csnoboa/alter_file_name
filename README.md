@@ -23,3 +23,7 @@
 6:
         edit the command key to:  C:\scr\alter_names\alter_names.bat 
         (or the path you put the alter_names.bat)
+        
+        
+Demonstration:
+![](clip0014.gif)
